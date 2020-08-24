@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 # Contact 
-**Email **: s.yfe007@gmail.com
 
+**Email **: s.yfe007@gmail.com
 **Blog ** : [visit my blog](https:// burningcoder.blogspot.com "visit my blog")
 
