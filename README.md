@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Welcome to Burnning Coder!
 
 	             Hi! Iam Sri Sathish as Padmanaban Mohan.
-	  I'm Python and Qt5 FrameWork Developer.
+	  I'm Python and Qt5 and Django FrameWork Developer.
 
 
 
