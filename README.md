@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### ⚡ Fun fact: ...
 -->
 
-# Welcome to Burnning Coder !
+# Welcome to my Github Page !
 
 	             Hi! Iam Sri Sathish as Padmanaban Mohan.
 	  I'm JavaScript Developer.
