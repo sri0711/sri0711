@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Welcome to my Github Page !
 
 	             Hi! Iam Sri Sathish as Padmanaban Mohan.
-	  I'm JavaScript Developer.
+	  I'm JavaScript Developer and Web Developer.
 
 
 
