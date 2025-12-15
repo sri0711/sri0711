@@ -16,4 +16,4 @@ I'm a passionate Backend Developer focused on building scalable, efficient, and 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sri0711&limit=5&theme=dark&combine_all_yearly_contributions=true&theme=chartreuse-dark)
+![](https://github-contributor-stats.vercel.app/api?username=sri0711&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
